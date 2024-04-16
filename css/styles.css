@@ -1,0 +1,116 @@
+/* CSS Document */
+
+body { color: #333; font-family: sans-serif; text-align: center;  }
+hr { height:0.2px;}
+.hr5{background-color:#06C; background-image:url(images/hr.png);}
+strong { font-weight: bold; }
+em { font-style: italic; }
+del { text-decoration: line-through; }
+th { font-weight: normal; }
+address, cite, dfn { font-style: normal; }
+li {
+	list-style: none;
+}
+abbr, acronym { border-bottom: 1px dotted #999; cursor: help; }
+input, textarea, select { font-family: Verdana, Geneva, sans-serif;  }
+a, a:visited { color: #0056AF; text-decoration: none; font-weight:300; }
+a:hover, a:active { color: #0056AF; text-decoration: underline; }
+
+/*..............................................................................................*/
+/*body{background-image:url(../img/bg1.jpg); background-repeat:repeat-x; background-color:#bebebe;}
+.content_area{background-color:#FFF; }*/
+.menu{width:930px;}
+.menu_empty{width:387px; float:left; margin-left:4px;}
+.menu_home{width:70px;  float:left;}
+.menu_about{width:80px; float:left;}
+.menu_service{width:99px;float:left;}
+.menu_portfolio{width:98px;float:left;}
+.menu_careers{width:97px;float:left;}
+.menu_contact{width:99px;float:left;}
+.ser_menu li{margin:0 45px 0; float:left;}
+hr{width:925px;}
+
+.heading{font-size:18px;
+color:#036;
+font-weight:600;
+text-decoration:underline;
+
+}
+.paragraph{
+	text-align:justify;
+	color:#000;
+	font-size:13px;
+	letter-spacing: normal;
+	vertical-align: super;
+	word-spacing: normal;
+	padding-left:10px;
+	
+	
+}
+.binpara{font:sans-serif;
+font-size:12px;
+}
+.centerbin{
+font-size:12px;
+color:#003366;
+}
+.centerbin a{font-weight:600; color:#036;}
+.bttmbin{font:Arial, Helvetica, ;
+font-size:18px;
+color:#0231AC;
+}
+.footer{
+font-size:12px;
+color:#666666;
+}
+/*.a{color:#6380CB;
+}.a a:visited,.a a:link,.a a:hover{text-decoration:underline; color:#6380CB;}*/
+
+.service_heading{font:Georgia, Times, serif;
+color:#3366CC;
+font-size:14px;
+}
+
+.amore{color:#990000;
+font-style:inherit;}
+
+.contact_font{
+text-align:justify;
+font-size:12px;
+}.sidebar {
+	float: left;
+	width: 250px;
+	list-style-position: inside;
+	list-style-image: none;
+	list-style-type: none;
+}
+#erp_list {
+	margin: 13px 0 12px;
+	font-size:13px;
+	text-align: justify;
+}
+.li{background-image:url(../images/arrow.gif); background-repeat:no-repeat; }
+.bot_list{width: 900px; margin-left:20px; margin-top:0px;}
+.bot_para{margin-top:0px;}
+.web_list{margin-left:30px; width:450px; float:left;}
+.web_image{ width:450px; float:right; }
+.about_list{float:left; width:810px; font-size:12px;}
+.about_head{margin-left:30px;}
+.service_tag{background-image:url(../images/Service_tag.png); background-repeat:no-repeat; }
+.a_index{color:#FFF;}
+.pad{ margin:0; margin-top:0; }
+.service_content{width:920px;}
+.service_content_para{width:700px;}
+.service_content_img{ width:200px; float:left;}
+/*-----------------------------------------------------------------------------------------------*/
+
+
+.container_12{width:944px; float:left; background-image:url(../img/menu_bg.jpg); background-repeat:repeat-x; margin-left:11px;}
+.grid_12{width:880px; float:right; }
+
+.web_list {
+	text-align: justify;
+}
+.container{width:960px; background-color:#FFF; }.client_logo {
+}
+.client_logo tr{height:50px;}
